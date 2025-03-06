@@ -1,33 +1,33 @@
-DBP8
-SHE3
-RPL5
-SIR1
-ECM25
-BUD20
-RIB3
-RTF1
-LDS1
-SLM1
-TOR2
-GLE1
-VMA6
-APC1
-RPN7
-MRPS9
-zz-YIL161W
-BNA5
-SHE9
-RIB5
-PIM1
-DUR3
-ALR2
-SSK22
-ATG8
-SNU66
-UTP18
-VPS75
-IBA57
-RRT14
-SEC2
-HIS3
-RPS1A
+('zz-YIL161W', '+')
+('RPS1A', '-')
+('RIB3', '-')
+('GLE1', '+')
+('RIB5', '-')
+('TOR2', '-')
+('ALR2', '-')
+('RPL5', '+')
+('VMA6', '-')
+('RPN7', '+')
+('ATG8', '-')
+('DBP8', '+')
+('APC1', '+')
+('VPS75', '+')
+('SEC2', '-')
+('HIS3', '+')
+('SNU66', '-')
+('SHE9', '+')
+('LDS1', '-')
+('SIR1', '+')
+('DUR3', '-')
+('ECM25', '+')
+('PIM1', '-')
+('BNA5', '-')
+('UTP18', '-')
+('SLM1', '-')
+('IBA57', '+')
+('BUD20', '-')
+('RTF1', '+')
+('SHE3', '-')
+('SSK22', '-')
+('MRPS9', '+')
+('RRT14', '-')
